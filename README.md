@@ -22,6 +22,9 @@ Could be potentially as a common platform to connect with new people as well as 
 ## Product Spec
 ### 1. User Stories (Required and Optional)
 
+**Completed User Stories**
+* Not yet completed.
+
 **Required Must-have Stories**
 
 * User logs in to access previous posts and change preference settings
