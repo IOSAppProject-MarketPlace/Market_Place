@@ -23,19 +23,15 @@ Could be potentially as a common platform to connect with new people as well as 
 ### 1. User Stories (Required and Optional)
 
 **Completed User Stories**
-* Not yet completed.
+* [X] User logs in to access previous posts.
+* [X]User can can access category of items.
+* [X]Login pages for each user
 
 **Required Must-have Stories**
-
-* User logs in to access previous posts and change preference settings
-* User can search for particular category of items.]
-* User can connect woth other people.
+* User can connect with other people.
 * User can also provide feedback, report inappropriate Users. They also have a chat window to get to know each other.
-* Profile pages for each user
-* Settings (Accesibility, Notification, General, etc.)
 
 **Optional Nice-to-have Stories**
-
 * Log of past posts/people with farther location.
 * Page of most viewed posts 
 
@@ -46,12 +42,8 @@ Could be potentially as a common platform to connect with new people as well as 
    * Upon Download/Reopening of the application, the user is prompted to log in to gain access to their profile information to be properly matched with another person. 
 * Messaging Screen - Chat for users to communicate (direct 1-on-1)
    * Upon selecting a particular user post, it will go to message screen.
-* Profile Screen 
-   * Allows user to upload a photo and fill in information that is interesting to them and others
 * Posts Screen 
    * Allows user to upload a photo of the item and fill in information and the cost
-* Settings Screen
-   * Lets people change language, and app notification settings.
 
 ### 3. Navigation
 
@@ -106,9 +98,7 @@ query.findObjectsInBackground { (posts: [PFObject]?, error: Error?) in
 }
 ```
 - (Create/POST) Create a new like on a post
-- (Delete) Delete existing like
 - (Create/POST) Create a new comment on a post
-- (Delete) Delete existing comment
 - Create Post Screen
   (Create/POST) Create a new post object
 - Profile Screen
