@@ -26,12 +26,7 @@ Could be potentially as a common platform to connect with new people as well as 
 * [X] User logs in to access previous posts.
 * [X] User can can access category of items.
 * [X] Login pages for each user
-<img src="https://github.com/IOSAppProject-MarketPlace/Market_Place/blob/main/CamScanner%2004-08-2021%2019.07.jpg" width=800><br>
-
-<img src="https://github.com/IOSAppProject-MarketPlace/Market_Place/blob/main/CamScanner%2004-08-2021%2019.07.jpg" width=800><br>
-
-<img src="https://github.com/IOSAppProject-MarketPlace/Market_Place/blob/main/CamScanner%2004-08-2021%2019.07.jpg" width=800><br>
-
+<img src="https://github.com/IOSAppProject-MarketPlace/Market_Place/blob/main/mailestone.gif" width=800><br>
 
 
 **Required Must-have Stories**
