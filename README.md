@@ -29,7 +29,7 @@ Could be potentially as a common platform to connect with new people as well as 
 **Required and Completed User Stories**
 * [X] Login pages for each user
 * [X] User has access previous posts.
-* [X] User can can access category of items.
+* [X] User can can create post and access all category of items.
 * [X] User can also provide feedback, report inappropriate Users. They also have a contact option to get to know each other.
 * [X] User can view other reviews.
 
