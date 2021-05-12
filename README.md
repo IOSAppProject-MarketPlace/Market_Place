@@ -22,16 +22,14 @@ Could be potentially as a common platform to connect with new people as well as 
 ## Product Spec
 ### 1. User Stories (Required and Optional)
 
-**Completed User Stories**
+**Required and Completed User Stories**
 * [X] User logs in to access previous posts.
 * [X] User can can access category of items.
 * [X] Login pages for each user
+* [X] User can connect with other people.
+* [X] User can also provide feedback, report inappropriate Users. They also have a chat window to get to know each other.
+
 <img src="https://github.com/IOSAppProject-MarketPlace/Market_Place/blob/main/mailestone.gif" width=800><br>
-
-
-**Required Must-have Stories**
-* User can connect with other people.
-* User can also provide feedback, report inappropriate Users. They also have a chat window to get to know each other.
 
 **Optional Nice-to-have Stories**
 * Log of past posts/people with farther location.
@@ -42,8 +40,8 @@ Could be potentially as a common platform to connect with new people as well as 
 * Login 
 * Register - User signs up or logs into their account
    * Upon Download/Reopening of the application, the user is prompted to log in to gain access to their profile information to be properly matched with another person. 
-* Messaging Screen - Chat for users to communicate (direct 1-on-1)
-   * Upon selecting a particular user post, it will go to message screen.
+* Messaging option - Contact of users to communicate (direct 1-on-1)
+   * Upon selecting a particular user post, it will go show contact.
 * Posts Screen 
    * Allows user to upload a photo of the item and fill in information and the cost
 
@@ -59,10 +57,10 @@ Optional:
 * Discover (Top Choices)
 
 **Flow Navigation** (Screen to Screen)
-* Forced Log-in -> Account creation if no log in is available
-* Post Selection  -> Jumps to Chat
-* Profile -> Text field to be modified. 
-* Settings -> Toggle settings
+* Forced Log-in -> Account creation if no log in is available.
+* Post Selection  -> Jumps to Post screen.
+* Review -> Jumps to post Review screen.
+* View Review -> Jumps to view Reviews screen. 
 
 ## Wireframes
 <img src="https://github.com/IOSAppProject-MarketPlace/Market_Place/blob/main/CamScanner%2004-08-2021%2019.07.jpg" width=800><br>
@@ -78,7 +76,6 @@ Optional:
 |image	       |File         |image that user posts                           |
 |caption       |String       |image caption by author                         |
 |Amount        |Alpha-Numeric|amount for a product                            |
-|likesCount    |Number       |number of likes for the post                    |
 |createdAt     |DateTime     |date when post is created (default field)       |
 |updatedAt     |DateTime     |date when post is last updated (default field)  |
 
@@ -99,8 +96,8 @@ query.findObjectsInBackground { (posts: [PFObject]?, error: Error?) in
    }
 }
 ```
-- (Create/POST) Create a new like on a post
-- (Create/POST) Create a new comment on a post
+- (Create/POST) Create a new review on a post
+- (Create/POST) View a reviews on a post
 - Create Post Screen
   (Create/POST) Create a new post object
 - Profile Screen
