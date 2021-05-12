@@ -23,11 +23,11 @@ Could be potentially as a common platform to connect with new people as well as 
 ### 1. User Stories (Required and Optional)
 
 **Required and Completed User Stories**
-* [X] User logs in to access previous posts.
-* [X] User can can access category of items.
 * [X] Login pages for each user
-* [X] User can connect with other people.
+* [X] User has access previous posts.
+* [X] User can can access category of items.
 * [X] User can also provide feedback, report inappropriate Users. They also have a contact option to get to know each other.
+* [X] User can view other reviews.
 
 <img src="https://github.com/IOSAppProject-MarketPlace/Market_Place/blob/main/mailestone.gif" width=800><br>
 
