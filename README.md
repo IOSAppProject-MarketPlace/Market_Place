@@ -1,5 +1,9 @@
 # Market_Place
 A Social Platform to Buy and Sell Stuff
+## Note
+1. Please find the code in the compressed folder "Market_Place.zip".
+1. It contains all working directories, workspace file.
+1. To Run: Download zip, install Alamofire, pods and compile the code.
 
 ## Table of Contents
 1. [Overview](#Overview)
