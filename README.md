@@ -34,8 +34,7 @@ Could be potentially as a common platform to connect with new people as well as 
 * [X] User can view other reviews.
 
 <img src="https://github.com/IOSAppProject-MarketPlace/Market_Place/blob/main/loginscreen.gif" width=200> <img src="https://github.com/IOSAppProject-MarketPlace/Market_Place/blob/main/postscreen.gif" width=200> <img src="https://github.com/IOSAppProject-MarketPlace/Market_Place/blob/main/postitemscreen.gif" width=200><br>
-<img src="https://github.com/IOSAppProject-MarketPlace/Market_Place/blob/main/postreview.gif" width=300>
-<img src="https://github.com/IOSAppProject-MarketPlace/Market_Place/blob/main/viewreview.gif" width=300><br>
+<img src="https://github.com/IOSAppProject-MarketPlace/Market_Place/blob/main/postreview.gif" width=200><img src="https://github.com/IOSAppProject-MarketPlace/Market_Place/blob/main/viewreview.gif" width=200><br>
 
 **Optional Nice-to-have Stories**
 * Log of past posts/people with farther location.
