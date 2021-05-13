@@ -1,5 +1,5 @@
 # Market_Place
-A Social Platform to Buy and Sell Stuff
+A Social Ios Platform to Buy and Sell Stuff
 ## Note
 1. Please find the code in the compressed folder "Market_Place.zip".
 1. It contains all working directories, workspace file.
