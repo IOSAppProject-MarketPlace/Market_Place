@@ -1,6 +1,6 @@
 # Market_Place
 A Social Ios Platform to Buy and Sell Stuff.
-The video demo is included in this repo and can be viewed at <vid src="https://github.com/IOSAppProject-MarketPlace/Market_Place/blob/main/zoom_1.mp4" width=200> 
+The video demo is included in this repo and can be viewed at <video src="https://github.com/IOSAppProject-MarketPlace/Market_Place/blob/main/zoom_1.mp4" width=200> 
   
 ## Note
 1. Please find the code in the compressed folder "Market_Place.zip".
